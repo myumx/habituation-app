@@ -1,0 +1,2 @@
+class Habituation < ApplicationRecord
+end
